@@ -1,0 +1,17 @@
+
+# Cross-Source Record Linker — Flexible v5
+
+This is the **full** build (no placeholders). It includes:
+- Auto-detection + manual mapping UI
+- Stable session state (Preview → Run works)
+- Arrow-safe rendering
+- **Flattened suspects** (Top-K candidates as columns) + CSV export
+
+## Run
+```bash
+conda create -n xlinker python=3.11 -y && conda activate xlinker
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+If you previously saw a "placeholder" screen, make sure you're launching **this v5 folder**.
