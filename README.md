@@ -14,4 +14,3 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-If you previously saw a "placeholder" screen, make sure you're launching **this v5 folder**.

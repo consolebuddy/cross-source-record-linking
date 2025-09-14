@@ -5,7 +5,7 @@ import pandas as pd
 from matching import link, guess_column, CANDIDATE_KEYS
 
 st.set_page_config(page_title="Cross-Source Record Linker — Flexible v5", layout="wide")
-st.title("🔗 Cross-Source Record Linker — Flexible Schema (v5)")
+st.title("🔗 Cross-Source Record Linker — Flexible Schema")
 
 st.markdown("Upload any two CSVs. Auto-guess or map columns, then run. Suspects show Top-K candidates in columns.")
 
