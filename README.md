@@ -1,5 +1,5 @@
 
-# Cross-Source Record Linker — Flexible v5
+# Cross-Source Record Linker — Flexible Schema
 
 This is the **full** build (no placeholders). It includes:
 - Auto-detection + manual mapping UI
